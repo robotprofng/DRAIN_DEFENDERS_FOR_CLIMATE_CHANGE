@@ -1,4 +1,4 @@
-# drain-defender# Drain Defenders 🌍
+# Drain Defenders 🌍
 
 A website I built with two children to raise awareness about improper waste disposal, blocked drainage and flooding.
 
